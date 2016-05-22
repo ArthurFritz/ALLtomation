@@ -1,0 +1,2 @@
+# ALLtomation
+Arthur Fritz Santiago, Altieres de Matos, João Antônio Rodrigues, Otávio Augusto Gonçalves Larrosa, João Paulo dos Santos, todos estudantes da Pós Graduação em Desenvolvimento de Aplicações Mobile e o Professor Ricardo Vieira, com experiência no desenvolvimento de aplicações mobiles e realizaram os estudos técnicos e acadêmicos em diversas iniciativas na área de automação elegendo o projeto da ALLtomation
